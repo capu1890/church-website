@@ -1,0 +1,79 @@
+/*Global*/
+* {
+    overflow: none;
+    box-sizing: border-box;
+}
+
+#main-header{
+    background-color:white;
+    background-image: url(../images/img_mountains_wide.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-size: 100%; 
+    font-size: 30px;
+    font-weight: bold;   
+    width: 100%;
+}
+
+li{
+    list-style-type: none;
+}
+
+
+#facebook{
+    font-size: 80px;
+    color: darkgrey;
+    
+}
+
+#instagram{
+    font-size: 80px;
+    color: darkgrey;
+    padding-left: 10px;
+    
+}
+
+.footer{
+    
+    margin-bottom: 0; 
+    background-color: lightgray;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+
+/*Doctrine*/
+.about-sin{
+    padding-left: 10px;
+    }
+
+/*Tithes & Offering*/
+.img-tithes{
+    margin-bottom: 30px;
+}
+
+#give{
+    margin-top: 10px;
+}
+
+.btn{
+    margin-top: 20px;
+    margin-bottom: 150px;
+}
+
+/*Contact Us*/
+#map{
+    margin-bottom: 35px;
+    width: 100%;
+}
+.section{
+   
+    
+}
+
+/*About Us */
+#myCarousel{
+    margin-bottom: 20px;
+}
+
